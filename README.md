@@ -12,7 +12,7 @@ Implementação inicial utilizando arrays fixos (`TAM_MAX 100`).
 ### 2. Nível Dinâmico (`/nivel-02-dinamico`)
 Evolução utilizando ponteiros e alocação dinâmica.
 * **Diferenciais:** Uso de `calloc` para inicializar a memória e `malloc` para blocos flexíveis.
-* [cite_start]**Relacionamentos:** Implementação de ponteiros para conectar `Emprestimo` à estrutura `Livro` sem redundância de dados.
+* **Relacionamentos:** Implementação de ponteiros para conectar `Emprestimo` à estrutura `Livro` sem redundância de dados.
 * **Segurança:** Foco em evitar *memory leaks* (vazamentos de memória).
 
 ## 🚀 Tecnologias
